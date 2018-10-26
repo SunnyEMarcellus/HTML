@@ -1,0 +1,217 @@
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+	.serviceDetail h2 {
+	    font-size: 19px;
+	}
+	.findDoctorSec h3 {
+	    font-size: 21px;
+	}
+	.findDoctorForm h2 {
+	    font-size: 28px;
+	}
+	.name-addresss {
+	    width: 82%;
+	}
+	.timing-detail-box {
+	    width: 100%;
+	    margin: 10px 0 0;
+	}
+	a.search-btn {
+	    padding: 13px 20px;
+	}
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.serviceDetail h2 {
+	    font-size: 18px;
+	    min-height: 38px;
+	}
+	.filterImage {
+	    margin-top: -90px;
+	}
+	.welcomeSec {
+	    padding: 50px 0 120px;
+	}
+	.findDoctorSec h2 {
+	    font-size: 30px;
+	    margin-bottom: 10px;
+	}
+	.findDoctorSec h3 {
+	    font-size: 16px;
+	}
+	.findDoctorSec h3 img {
+		max-width: 20px;
+	}
+	.specializedDoctors ul li {
+	    padding: 0 10px 15px 35px;
+	    background-size: 30px auto;
+	}
+	.findDoctorForm h2 {
+	    font-size: 28px;
+	}
+	.footerSec ul li a {
+	    font-size: 13px;
+	}
+	ul.socil-media-icons li {
+	    padding: 0px 15px;
+	}
+	ul.search-bar li {
+		width: 50% !important;
+		padding: 10px !important; 
+		float: left;
+	}
+	ul.search-bar li a {
+		width: 100%;
+		text-align: center;
+	}
+	.name-addresss {
+	    width: 82%;
+	}
+	.timing-detail-box {
+	    width: 100%;
+	    margin: 10px 0 0;
+	}
+	.contactSec a {
+	    padding: 50px 15px 0px;
+	    min-height: 145px;
+	    font-size: 30px;
+	}
+	.nice-select.form-control .list li, .nice-select.form-control span.current {
+	    font-size: 15px;
+	}
+}
+@media only screen and (max-width: 767px) {
+	.rightTopSec {
+		margin-bottom: 15px;
+		display: inline-block;
+		width: 100%;
+	}
+	.rightTopSec .blueButton {
+		float: left;
+	}
+	.serviceDetail {
+		margin-top: 1px;
+	}
+	.welcomeSec .pull-right img {
+		width: 100%;
+		margin-bottom: 20px;
+		margin-top: 0px;
+	}
+	.filterImage img {
+		width: 100%;
+	}
+	.findDoctorSec h2 {
+		margin: 15px 0;
+		font-size: 30px;
+	}
+	.findDoctorSec h3 {
+	    font-size: 20px;
+	}
+	.specializedDoctorsImg img {
+		max-width: 100%;
+		margin: 20px 0; 
+	}
+	.logoSec img {
+		background-color: rgba(255,255,255,0.5);
+		padding: 10px 15px; 
+	}
+	.team-member-img img {
+		width: 100%;
+	}
+	ul.search-bar li {
+		width: 50% !important;
+		padding: 10px !important; 
+		float: left;
+	}
+	ul.search-bar li a {
+		width: 100%;
+		text-align: center;
+	}
+	.name-addresss {
+	    width: 82%;
+	}
+	.timing-detail-box {
+	    width: 100%;
+	    margin: 10px 0 0;
+	}
+	.contactSec a {
+	    padding: 50px 15px 0px;
+	    min-height: 145px;
+	    font-size: 30px;
+	    margin-top: 50px;
+	}
+	.specializedDoctors {
+	    padding: 20px 0 0;
+	}
+	.specializedDoctors h2 {
+	    font-size: 30px;
+	}
+	h2.margin-top {
+	    margin-top: 0px;
+	}
+	ul.appointment-ul {
+	    margin-bottom: 15px;
+	}
+}
+@media only screen and (max-width: 480px) {
+	body {
+		overflow-x: hidden;
+	}
+	.rightTopSec,
+	.headerSection {
+		text-align: center;
+	}
+	.rightTopSec .blueButton {
+		float: none;
+	}
+	.headerSection ul {
+		margin-top: 15px;
+		padding-left: 0;
+	}
+	.footerSec h2 {
+	    font-size: 18px;
+	    margin-top: 20px;
+	}
+	.findDoctorForm {
+		padding: 20px;
+	}
+	.findDoctorForm h2 {
+	    font-size: 26px;
+	}
+	.findDoctorForm::before {
+		display: none;
+	}
+	.welcomeSec h2 {
+	    font-size: 27px; 
+	}
+	.findDoctorSec .col-xs-4 {
+		min-width: 100%;
+		margin-bottom: 20px; 
+	}
+	.specializedDoctors ul li {
+		min-width: 100%;
+	}
+	.footerSec .coppyRight {
+		font-size: 13px;
+	}
+	ul.search-bar li {
+		width: 100% !important;
+	}
+	.name-addresss {
+		width: 100%;
+	}
+	figure.doctor-img {
+	    width: 100%;
+	    display: inline-block;
+	}
+	figure.doctor-img img {
+		width: 100%;
+		height: 400px;
+		object-fit: cover;
+		object-position: top;
+	}
+	.nice-select.form-control .list li, .nice-select.form-control span.current {
+	    font-size: 15px;
+	}
+	.search-bar .form-control span {
+	    font-size: 13px !important;
+	}
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.37.4" platform="windows">
+	<Servers>
+		<Server>
+			<Host>208.80.5.132</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>wisemenweb.com</User>
+			<Pass encoding="base64">I1Jpc2h1MjQxMjkz</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>wisemenweb-dev-ftp</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+	</Servers>
+</FileZilla3>
